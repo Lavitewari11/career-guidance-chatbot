@@ -31,6 +31,30 @@ It analyzes user skills, interests, education, strengths, weaknesses, and career
 
 ---
 
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home Page](images/home.png)
+
+---
+
+### 📝 Career Input Form
+
+![Career Input Form](images/home1.png)
+
+---
+
+### 🧠 Profile Analysis
+
+![Profile Analysis](images/Profile%20Analysis.png)
+
+---
+
+### 🗺️ Study Roadmap
+
+![Study Roadmap](images/Study%20Roadmap.png)
+
 ## 📂 Project Structure
 
 ```bash

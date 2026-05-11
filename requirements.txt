@@ -1,0 +1,12 @@
+streamlit>=1.36.0
+python-dotenv>=1.0.1
+
+# Multi-agent orchestration
+crewai[gemini,litellm]>=0.130.0
+
+# LangChain (used for prompt formatting, and useful for extensions)
+langchain>=0.2.14
+langchain-core>=0.2.36
+langchain-google-genai>=1.0.10
+langchain-groq>=0.1.9
+

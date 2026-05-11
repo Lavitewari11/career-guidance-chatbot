@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Career Guidance Chatbot
 
 A professional **Career Guidance Chatbot** built with **Python**, **Streamlit**, **CrewAI**, **LangChain**, **Google Gemini API**, and **Groq fallback**.
@@ -101,3 +102,6 @@ python -m pip install --upgrade pip
 
 - **Unexpected formatting**: the UI will show the raw output if section parsing fails.
 
+=======
+# career-guidance-chatbot
+>>>>>>> b3f4719aa73fc6b0f2ea74033f2f10fc8d891322

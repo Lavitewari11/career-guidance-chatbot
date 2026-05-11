@@ -1,5 +1,4 @@
 streamlit==1.36.0
 python-dotenv==1.0.1
-crewai==0.130.0
 langchain-core==0.2.36
-onnxruntime==1.22.0
+crewai==0.28.8
